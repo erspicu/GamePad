@@ -1,0 +1,17 @@
+C:\Users\abraxas\Dropbox\GamePad\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NativeGamePadSample.exe.config
+C:\Users\abraxas\Dropbox\GamePad\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NativeGamePadSample.exe
+C:\Users\abraxas\Dropbox\GamePad\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\NativeGamePadSample.pdb
+C:\Users\abraxas\Dropbox\GamePad\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\abraxas\Dropbox\GamePad\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\NativeGamePadSample.Properties.Resources.resources
+C:\Users\abraxas\Dropbox\GamePad\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\NativeGamePadSample.csproj.GenerateResource.Cache
+C:\Users\abraxas\Dropbox\GamePad\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\NativeGamePadSample.exe
+C:\Users\abraxas\Dropbox\GamePad\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\NativeGamePadSample.pdb
+C:\Users\abraxas\Dropbox\GamePad\GamePadSample\NativeGamePadSample\bin\Debug\NativeGamePadSample.exe.config
+C:\Users\abraxas\Dropbox\GamePad\GamePadSample\NativeGamePadSample\obj\Debug\NativeGamePadSample.exe
+C:\Users\abraxas\Dropbox\GamePad\GamePadSample\NativeGamePadSample\obj\Debug\NativeGamePadSample.pdb
+C:\Users\abraxas\Dropbox\GamePad\GamePadSample\NativeGamePadSample\bin\Debug\NativeGamePadSample.exe
+C:\Users\abraxas\Dropbox\GamePad\GamePadSample\NativeGamePadSample\bin\Debug\NativeGamePadSample.pdb
+C:\Users\abraxas\Dropbox\GamePad\GamePadSample\NativeGamePadSample\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\abraxas\Dropbox\GamePad\GamePadSample\NativeGamePadSample\obj\Debug\NativeGamePadSample.Properties.Resources.resources
+C:\Users\abraxas\Dropbox\GamePad\GamePadSample\NativeGamePadSample\obj\Debug\NativeGamePadSample.csproj.GenerateResource.Cache
+C:\Users\abraxas\Dropbox\GamePad\GamePadSample\NativeGamePadSample\obj\Debug\NativeGamePadSample.csprojResolveAssemblyReference.cache
